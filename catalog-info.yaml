@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: pynsuphasueb/hello-backstage
 spec:
-  type: other
+  type: service
   lifecycle: unknown
-  owner: sky
+  owner: pynsuphasueb@github.com

@@ -4,6 +4,8 @@ metadata:
   name: hello-backstage
   annotations:
     github.com/project-slug: pynsuphasueb/hello-backstage
+  tags:
+    - sky
 spec:
   type: other
   lifecycle: unknown
